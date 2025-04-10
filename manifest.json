@@ -1,0 +1,10 @@
+
+{
+  "name": "Clínica Hall",
+  "short_name": "Clinica",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Chat de Clínica Hall",
+  "icons": []
+}
