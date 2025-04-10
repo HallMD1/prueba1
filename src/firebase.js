@@ -1,9 +1,9 @@
-
+// src/firebase.js
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD2Px5FWbA96KhL09YQcQDG-R758W5KnDI",
+  apiKey: "TU_API_KEY",
   authDomain: "clinicahall-142d0.firebaseapp.com",
   projectId: "clinicahall-142d0",
   storageBucket: "clinicahall-142d0.appspot.com",
